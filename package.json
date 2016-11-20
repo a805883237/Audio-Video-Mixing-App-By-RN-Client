@@ -1,0 +1,44 @@
+{
+  "name": "hello",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest",
+    "bundle-android": "react-native bundle --platform android --dev false --entry-file index.android.js --bundle-output android/app/src/main/assets/index.android.bundle --sourcemap-output android/app/src/main/assets/index.android.map --assets-dest android/app/src/main/res/"
+  },
+  "dependencies": {
+    "lodash": "^4.17.0",
+    "mockjs": "^1.0.1-beta3",
+    "query-string": "^4.2.3",
+    "react": "15.3.2",
+    "react-addons-update": "^15.3.2",
+    "react-native": "0.35.0",
+    "react-native-audio": "^2.2.0",
+    "react-native-button": "^1.7.1",
+    "react-native-countdown": "0.0.3",
+    "react-native-image-picker": "^0.22.13",
+    "react-native-loader": "^1.1.0",
+    "react-native-progress": "^3.1.0",
+    "react-native-scrollable-tab-view": "^0.6.0",
+    "react-native-sk-countdown": "^1.0.1",
+    "react-native-swiper": "^1.5.3",
+    "react-native-tab-navigator": "^0.3.3",
+    "react-native-uploader": "git+https://github.com/tranquangvu/react-native-uploader.git",
+    "react-native-vector-icons": "^3.0.0",
+    "react-native-video": "^0.9.0",
+    "rn-animate-alert": "^1.0.0",
+    "sha1": "^1.1.1"
+  },
+  "jest": {
+    "preset": "jest-react-native"
+  },
+  "devDependencies": {
+    "babel-jest": "16.0.0",
+    "babel-preset-react-native": "1.9.0",
+    "jest": "16.0.2",
+    "jest-react-native": "16.0.0",
+    "react-test-renderer": "15.3.2",
+    "whatwg-fetch": "1.0.0"
+  }
+}
