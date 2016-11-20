@@ -2,6 +2,7 @@
 ---
 
 效果图（篇幅有限，只放一部分，具体可见目录中其他图片文件）：
+<br>
 ![image](https://github.com/accforgit/Audio-Video-Mixing-App-By-RN-Client/blob/master/Screenshot_2016-11-19-23-14-50.png)![image](https://github.com/accforgit/Audio-Video-Mixing-App-By-RN-Client/blob/master/Screenshot_2016-11-19-23-15-11.png)
 ![image](https://github.com/accforgit/Audio-Video-Mixing-App-By-RN-Client/blob/master/Screenshot_2016-11-19-23-15-54.png)![image](https://github.com/accforgit/Audio-Video-Mixing-App-By-RN-Client/blob/master/Screenshot_2016-11-19-23-16-03.png)
 ![image](https://github.com/accforgit/Audio-Video-Mixing-App-By-RN-Client/blob/master/Screenshot_2016-11-19-23-18-30.png)![image](https://github.com/accforgit/Audio-Video-Mixing-App-By-RN-Client/blob/master/Screenshot_2016-11-19-23-19-00.png)
